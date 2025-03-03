@@ -1,0 +1,101 @@
+,url,title,rating,num_ratings,num_reviews,num_photos,num_ingredients
+0,https://www.allrecipes.com/recipe/16311/simple-beef-stroganoff/,Simple Beef Stroganoff,4.4,1,812,116,6
+1,https://www.allrecipes.com/recipe/222352/jamies-sweet-and-easy-corn-on-the-cob/,Jamie's Sweet and Easy Corn on the Cob,4.9,534,403,27,3
+2,https://www.allrecipes.com/recipe/34450/italian-seasoning-i/,Italian Seasoning,4.8,83,49,8,6
+3,https://www.allrecipes.com/recipe/241074/easy-garlic-kale/,Easy Garlic Kale,4.4,104,79,26,3
+4,https://www.allrecipes.com/recipe/127500/japanese-style-deep-fried-shrimp/,Japanese-Style Deep-Fried Shrimp,4.8,351,269,59,9
+5,https://www.allrecipes.com/recipe/11839/arrabbiata-sauce/,Arrabbiata Sauce,4.5,480,333,22,13
+6,https://www.allrecipes.com/recipe/21560/skillet-ham-cabbage-and-potatoes/,"Skillet Ham, Cabbage, and Potatoes",4.6,437,355,30,8
+7,https://www.allrecipes.com/recipe/85839/out-of-this-world-turkey-brine/,Out of This World Turkey Brine,4.9,853,658,36,6
+8,https://www.allrecipes.com/recipe/230857/easy-tuna-patties/,Easy Tuna Patties,4.6,628,494,146,8
+9,https://www.allrecipes.com/recipe/269500/creamy-garlic-pasta/,Creamy Garlic Pasta,4.8,309,271,33,10
+10,https://www.allrecipes.com/recipe/69471/baby-spinach-omelet/,Baby Spinach Omelet,4.5,378,280,64,6
+11,https://www.allrecipes.com/recipe/282204/smoked-whole-turkey-breast/,Smoked Whole Turkey Breast,,0,0,2,10
+12,https://www.allrecipes.com/recipe/21306/fish-in-foil/,Fish in Foil,4.4,430,320,31,7
+13,https://www.allrecipes.com/recipe/8541/carols-arroz-con-pollo/,Arroz Con Pollo (Chicken and Rice),4.4,373,277,24,14
+14,https://www.allrecipes.com/recipe/8468509/one-pot-tortellini-bake/,One Pot Tortellini Bake,4.7,11,6,2,11
+15,https://www.allrecipes.com/recipe/216108/slow-cooker-turkey-legs/,Slow Cooker Turkey Legs,4.6,94,83,13,4
+16,https://www.allrecipes.com/recipe/132358/easy-garlic-lemon-scallops/,Easy Garlic-Lemon Scallops,4.6,663,498,109,6
+17,https://www.allrecipes.com/recipe/212670/game-hen-stuffed-with-wild-rice-and-mushrooms/,Game Hen Stuffed with Wild Rice and Mushrooms,4.4,36,30,7,10
+18,https://www.allrecipes.com/recipe/82768/lauras-quick-slow-cooker-turkey-chili/,Laura's Quick Slow Cooker Turkey Chili,4.7,1,1151,104,14
+19,https://www.allrecipes.com/recipe/219431/parmesan-crusted-chicken/,Parmesan Crusted Chicken,4.7,346,285,43,4
+20,https://www.allrecipes.com/recipe/14113/tofu-turkey-i/,Tofu Turkey I,4.3,68,58,9,19
+21,https://www.allrecipes.com/recipe/71698/sesame-seared-tuna/,Sesame-Seared Tuna,4.7,540,397,76,9
+22,https://www.allrecipes.com/recipe/257530/scrambled-eggs-in-a-mug/,Scrambled Eggs in a Mug,4.6,66,55,16,3
+23,https://www.allrecipes.com/recipe/212929/chicken-tinola/,Chicken Tinola,4.6,98,69,36,11
+24,https://www.allrecipes.com/recipe/234271/brined-and-roasted-whole-turkey/,Brined and Roasted Whole Turkey,4.7,23,17,13,8
+25,https://www.allrecipes.com/recipe/19963/fajita-marinade-i/,Fajita Marinade,4.6,851,621,32,9
+26,https://www.allrecipes.com/recipe/8847/baked-honey-mustard-chicken/,Baked Honey Mustard Chicken,4.3,3,2068,248,8
+27,https://www.allrecipes.com/recipe/13874/turducken/,Turducken,4.7,27,24,8,6
+28,https://www.allrecipes.com/recipe/244950/baked-chicken-schnitzel/,Baked Chicken Schnitzel,4.5,304,258,50,8
+29,https://www.allrecipes.com/recipe/229872/easy-cornish-hens/,Easy Cornish Hens,4.3,50,36,9,13
+30,https://www.allrecipes.com/recipe/228823/quick-beef-stir-fry/,Quick Beef Stir-Fry,4.4,458,315,208,9
+31,https://www.allrecipes.com/recipe/51283/maple-salmon/,Maple Salmon,4.7,5,3874,522,6
+32,https://www.allrecipes.com/recipe/240457/chef-johns-boneless-whole-turkey/,Chef John's Boneless Whole Turkey,4.9,15,13,6,5
+33,https://www.allrecipes.com/recipe/166160/juicy-thanksgiving-turkey/,Juicy Thanksgiving Turkey,4.9,902,708,138,13
+34,https://www.allrecipes.com/recipe/51226/a-very-popular-bbq-sauce/,Homemade BBQ Sauce,4.6,960,805,77,10
+35,https://www.allrecipes.com/recipe/34870/chicken-murphy/,Chicken Murphy,4.2,21,20,4,17
+36,https://www.allrecipes.com/recipe/34524/baked-ham/,Baked Ham,4.7,142,119,15,4
+37,https://www.allrecipes.com/recipe/84456/roasted-turkey-legs/,Roasted Turkey Legs,4.6,107,84,21,5
+38,https://www.allrecipes.com/recipe/8538585/unstuffed-pepper-skillet/,Unstuffed Pepper Skillet,4.8,16,13,1,13
+39,https://www.allrecipes.com/recipe/56348/a-simply-perfect-roast-turkey/,A Simply Perfect Roast Turkey,4.9,540,390,83,5
+40,https://www.allrecipes.com/recipe/51301/sarahs-applesauce/,Sarah's Homemade Applesauce,4.8,3,2521,314,4
+41,https://www.allrecipes.com/recipe/85452/homemade-black-bean-veggie-burgers/,Homemade Black Bean Veggie Burgers,4.4,3,2720,363,10
+42,https://www.allrecipes.com/recipe/26286/quick-and-easy-chicken-spaghetti/,Quick and Easy Chicken Spaghetti,4.6,246,196,24,7
+43,https://www.allrecipes.com/recipe/18249/baked-sweet-potatoes/,Baked Sweet Potatoes,4.7,698,509,59,5
+44,https://www.allrecipes.com/recipe/282200/hickory-smoked-turkey-breast/,Smoked Turkey Breast,4.5,2,1,2,11
+45,https://www.allrecipes.com/recipe/94543/juicy-two-stage-thanksgiving-turkey-marinade/,Juicy Two-Stage Thanksgiving Turkey Marinade,4.8,28,20,12,17
+46,https://www.allrecipes.com/recipe/233531/quick-whole-wheat-chapati/,Quick Whole Wheat Chapati,4.8,21,16,5,3
+47,https://www.allrecipes.com/recipe/8521894/one-pot-lemon-chicken-orzo/,One Pot Lemon Chicken Orzo,4.7,18,16,2,14
+48,https://www.allrecipes.com/recipe/72068/chicken-katsu/,Chicken Katsu,4.7,919,661,212,6
+49,https://www.allrecipes.com/recipe/18465/gnocchi-i/,Gnocchi,4.7,582,436,110,4
+50,https://www.allrecipes.com/recipe/245524/dry-brine-turkey/,Dry Brine Turkey,4.8,19,16,6,5
+51,https://www.allrecipes.com/recipe/272834/easy-homemade-shrimp-fried-rice/,Easy Shrimp Fried Rice,4.8,61,53,13,12
+52,https://www.allrecipes.com/recipe/46982/pesto-pasta-with-chicken/,Pesto Pasta with Chicken,4.5,1,731,144,7
+53,https://www.allrecipes.com/recipe/230121/very-moist-and-flavorful-roast-turkey/,Very Moist and Flavorful Roast Turkey,4.8,12,11,3,8
+54,https://www.allrecipes.com/recipe/212482/maple-glazed-turkey-roast/,Maple Glazed Turkey Roast,4.5,99,77,13,10
+55,https://www.allrecipes.com/recipe/241066/one-skillet-mexican-quinoa/,One-Skillet Mexican Quinoa,4.7,500,380,75,15
+56,https://www.allrecipes.com/recipe/70163/easy-baked-tilapia/,Easy Baked Tilapia,4.5,1,898,157,7
+57,https://www.allrecipes.com/recipe/239428/crispy-panko-chicken-breasts/,Crispy Panko Chicken Breasts,4.6,182,140,66,8
+58,https://www.allrecipes.com/recipe/8526807/ground-beef-stroganoff-noodles/,Ground Beef Stroganoff Noodles,4.8,72,62,8,16
+59,https://www.allrecipes.com/recipe/276006/air-fryer-lobster-tails-with-lemon-garlic-butter/,Air Fryer Lobster Tails with Lemon-Garlic Butter,4.8,50,36,9,7
+60,https://www.allrecipes.com/recipe/163370/shrimp-egg-foo-young/,Shrimp Egg Foo Young,4.6,128,113,31,11
+61,https://www.allrecipes.com/recipe/280935/air-fryer-tilapia-with-fresh-lemon-pepper/,Air Fryer Tilapia with Fresh Lemon Pepper,4.6,12,10,2,10
+62,https://www.allrecipes.com/recipe/220642/quick-and-easy-refried-beans/,Quick and Easy Refried Beans,4.6,359,290,31,7
+63,https://www.allrecipes.com/recipe/214947/perfect-summer-fruit-salad/,Perfect Summer Fruit Salad,4.7,601,439,89,13
+64,https://www.allrecipes.com/recipe/235932/brazilian-grilled-pineapple/,Brazilian Grilled Pineapple,4.9,100,74,17,3
+65,https://www.allrecipes.com/recipe/23037/easy-beginners-turkey-with-stuffing/,Easy Beginner's Turkey with Stuffing,4.7,54,38,9,9
+66,https://www.allrecipes.com/recipe/260227/instant-pot-turkey-breast/,Instant Pot Turkey Breast,4.6,86,75,11,7
+67,https://www.allrecipes.com/recipe/14452/green-salad/,Green Salad,4.7,20,10,9,9
+68,https://www.allrecipes.com/recipe/93234/honey-walnut-shrimp/,Honey Walnut Shrimp,4.7,572,440,148,10
+69,https://www.allrecipes.com/recipe/22538/baked-salmon-fillets-dijon/,Baked Salmon Fillets Dijon,4.6,1,1116,108,5
+70,https://www.allrecipes.com/recipe/140930/southern-fried-catfish/,Southern Fried Catfish,4.5,177,143,35,8
+71,https://www.allrecipes.com/recipe/220597/simple-garlic-shrimp/,Simple Garlic Shrimp,4.8,1,1198,317,10
+72,https://www.allrecipes.com/recipe/253157/weeknight-skillet-slaw/,Weeknight Skillet Slaw,4.5,161,138,27,15
+73,https://www.allrecipes.com/recipe/215189/fruit-and-yogurt-smoothie/,Fruit and Yogurt Smoothie,4.7,103,76,23,7
+74,https://www.allrecipes.com/recipe/201934/pan-seared-tilapia/,Pan-Seared Tilapia,4.7,835,601,188,8
+75,https://www.allrecipes.com/recipe/189058/super-simple-salmon/,Easy 5-Ingredient Salmon,4.7,650,473,165,6
+76,https://www.allrecipes.com/recipe/8887/chicken-marsala/,Chicken Marsala,4.6,5,4203,574,10
+77,https://www.allrecipes.com/recipe/241019/spinach-and-banana-power-smoothie/,Spinach and Banana Power Smoothie,4.7,90,77,22,3
+78,https://www.allrecipes.com/recipe/282214/herb-roasted-turkey-thighs/,Roasted Turkey Thighs,4.9,7,7,3,13
+79,https://www.allrecipes.com/recipe/41393/easy-herb-roasted-turkey/,Easy Herb-Roasted Turkey,4.7,664,522,73,7
+80,https://www.allrecipes.com/recipe/229692/easy-sweet-potato-casserole/,Easy Sweet Potato Casserole,4.6,73,54,22,6
+81,https://www.allrecipes.com/recipe/239740/deep-fried-turkey-breast/,Deep-Fried Turkey Breast,4.0,4,3,2,7
+82,https://www.allrecipes.com/recipe/217339/crispy-baked-walleye/,Crispy Baked Walleye,4.6,133,110,29,7
+83,https://www.allrecipes.com/recipe/228531/matts-fried-turkey-brine/,Matt's Fried Turkey Brine,5.0,10,9,4,13
+84,https://www.allrecipes.com/recipe/275489/chef-johns-american-goulash/,Chef John's American Goulash,4.8,402,330,67,18
+85,https://www.allrecipes.com/recipe/13384/split-pea-soup/,Split Pea Soup,4.7,1,1058,144,10
+86,https://www.allrecipes.com/recipe/13662/the-greatest-grilled-turkey/,The Greatest Grilled Turkey,4.9,58,50,14,4
+87,https://www.allrecipes.com/recipe/23539/strawberry-oatmeal-breakfast-smoothie/,Strawberry Oatmeal Breakfast Smoothie,4.4,1,951,87,6
+88,https://www.allrecipes.com/recipe/220164/classic-cuban-style-picadillo/,Classic Cuban-Style Picadillo,4.6,176,140,59,13
+89,https://www.allrecipes.com/recipe/36487/blackened-salmon-fillets/,Blackened Salmon Fillets,4.7,1,882,156,11
+90,https://www.allrecipes.com/recipe/219079/chef-johns-roast-turkey-and-gravy/,Chef John's Roast Turkey and Gravy,4.9,383,295,71,17
+91,https://www.allrecipes.com/recipe/20963/oven-roasted-potatoes/,Oven Roasted Potatoes,4.7,1,1167,109,11
+92,https://www.allrecipes.com/recipe/23431/to-die-for-fettuccine-alfredo/,To Die For Fettuccine Alfredo,4.6,2,1744,273,7
+93,https://www.allrecipes.com/recipe/24876/baked-cornish-game-hens/,Baked Cornish Game Hens,4.5,136,97,20,11
+94,https://www.allrecipes.com/recipe/8489941/roast-chicken-with-grapefruit/,Roast Chicken with Grapefruit,4.0,1,1,2,10
+95,https://www.allrecipes.com/recipe/156537/bourbon-glazed-ham/,Bourbon-Glazed Ham,4.7,68,52,13,8
+96,https://www.allrecipes.com/recipe/216757/savory-sea-scallops-and-angel-hair-pasta/,Savory Sea Scallops and Angel Hair Pasta,4.7,120,105,19,10
+97,https://www.allrecipes.com/recipe/9025/bourbon-chicken/,Bourbon Chicken,4.6,572,427,60,14
+98,https://www.allrecipes.com/recipe/6773/simple-whole-wheat-bread/,Simple Whole Wheat Bread,4.8,2,2041,524,7
+99,https://www.allrecipes.com/recipe/176957/baked-kale-chips/,Baked Kale Chips,4.6,2,2016,272,3
