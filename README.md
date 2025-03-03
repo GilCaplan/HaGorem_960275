@@ -1,5 +1,5 @@
 Aim:
-You will learn about considerations in collecting information from people through a variety of means for the purpose of analyzing Big Data. The course emphasizes considerations that system designers need to take into account in order to understand the perspective of the people providing the collected information, such as cognitive abilities and limitations that affect task design, ethics, motivation for providing information, and environmental influences. In addition, the course discusses the application of behavioral considerations for the purpose of analyzing information based on databases coming from automated sources.
+To learn about considerations in collecting information from people (society) through a variety of means for the purpose of analyzing Big Data. The course emphasizes considerations that system designers need to take into account in order to understand the perspective of the people providing the collected information, such as cognitive abilities and limitations that affect task design, ethics, motivation for providing information, and environmental influences. In addition, the course discusses the application of behavioral considerations for the purpose of analyzing information based on databases coming from automated sources.
 
 Subjects Learned:
 1. Introduction to the human factor in data collection
